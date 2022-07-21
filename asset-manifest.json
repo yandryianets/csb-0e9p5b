@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "https://yandryianets.github.io/csb-0e9p5b/static/css/main.510cce32.chunk.css",
-    "main.js": "https://yandryianets.github.io/csb-0e9p5b/static/js/main.8ca3cee5.chunk.js",
-    "main.js.map": "https://yandryianets.github.io/csb-0e9p5b/static/js/main.8ca3cee5.chunk.js.map",
-    "runtime-main.js": "https://yandryianets.github.io/csb-0e9p5b/static/js/runtime-main.3890f081.js",
-    "runtime-main.js.map": "https://yandryianets.github.io/csb-0e9p5b/static/js/runtime-main.3890f081.js.map",
+    "main.js": "https://yandryianets.github.io/csb-0e9p5b/static/js/main.02137e55.chunk.js",
+    "main.js.map": "https://yandryianets.github.io/csb-0e9p5b/static/js/main.02137e55.chunk.js.map",
+    "runtime-main.js": "https://yandryianets.github.io/csb-0e9p5b/static/js/runtime-main.baa78c29.js",
+    "runtime-main.js.map": "https://yandryianets.github.io/csb-0e9p5b/static/js/runtime-main.baa78c29.js.map",
     "static/css/2.b8066dc3.chunk.css": "https://yandryianets.github.io/csb-0e9p5b/static/css/2.b8066dc3.chunk.css",
-    "static/js/2.0c47333a.chunk.js": "https://yandryianets.github.io/csb-0e9p5b/static/js/2.0c47333a.chunk.js",
-    "static/js/2.0c47333a.chunk.js.map": "https://yandryianets.github.io/csb-0e9p5b/static/js/2.0c47333a.chunk.js.map",
+    "static/js/2.4e03605c.chunk.js": "https://yandryianets.github.io/csb-0e9p5b/static/js/2.4e03605c.chunk.js",
+    "static/js/2.4e03605c.chunk.js.map": "https://yandryianets.github.io/csb-0e9p5b/static/js/2.4e03605c.chunk.js.map",
     "index.html": "https://yandryianets.github.io/csb-0e9p5b/index.html",
     "static/css/2.b8066dc3.chunk.css.map": "https://yandryianets.github.io/csb-0e9p5b/static/css/2.b8066dc3.chunk.css.map",
     "static/css/main.510cce32.chunk.css.map": "https://yandryianets.github.io/csb-0e9p5b/static/css/main.510cce32.chunk.css.map",
-    "static/js/2.0c47333a.chunk.js.LICENSE.txt": "https://yandryianets.github.io/csb-0e9p5b/static/js/2.0c47333a.chunk.js.LICENSE.txt",
+    "static/js/2.4e03605c.chunk.js.LICENSE.txt": "https://yandryianets.github.io/csb-0e9p5b/static/js/2.4e03605c.chunk.js.LICENSE.txt",
     "static/media/all.min.css": "https://yandryianets.github.io/csb-0e9p5b/static/media/fa-solid-900.eeccf4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.3890f081.js",
+    "static/js/runtime-main.baa78c29.js",
     "static/css/2.b8066dc3.chunk.css",
-    "static/js/2.0c47333a.chunk.js",
+    "static/js/2.4e03605c.chunk.js",
     "static/css/main.510cce32.chunk.css",
-    "static/js/main.8ca3cee5.chunk.js"
+    "static/js/main.02137e55.chunk.js"
   ]
 }
